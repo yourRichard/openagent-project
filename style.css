@@ -1560,14 +1560,14 @@ background-image: linear-gradient(147deg, #292929 0%, #000000 74%);
   color: rgb(161, 148, 148);
 }
 .footer .box-container .box a:hover{
-  color: rgb(0, 139, 63);
+  color: rgb(121, 20, 146);
   text-decoration: underline;
 }
 .footer .box-container .box i{
   font-size: 3rem;
   margin: 1rem;
   margin-left: 0;
-  color: rgb(0, 139, 63);
+  color: rgb(107, 30, 103);
   
 }
 .footer .box-container .box i:hover{
